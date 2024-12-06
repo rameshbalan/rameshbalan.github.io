@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Balan. I am a 4th year Ph. D. candidate in [Dr. Jeff Demuth's Lab](https://www.uta.edu/faculty/demuth) at University of Texas at Arlington. I am interested in understanding the evolution of sex chromosomes and dosage compensation by analyzing next-gen sequencing data using computer programs.
+Hi! I am Balan. I am an Assistant Professor at the Mahindra University. I did my Ph. D. from the University of Texas at Arlington in [Dr. Jeff Demuth's Lab](https://www.uta.edu/faculty/demuth) and my post doc from the University of Idaho in [Dr. Adam Jones's Lab](https://pipefishguysite.wordpress.com/jones-lab-research/). As an evolutionary/computational biologist I am currently working on two broad topics:  
+  - understanding the evolutionary origins and implications of sex chromosomes in syngnathid (pipefish and seahorse) fishes.
+  - Predicting mutations that are more likely to be antibiotic resistance in bacterial pathogens using evolutionary principles to design effective treatment strategies.
 
-Currently, I am working on understanding the evolution of dosage compensation with a multi-species approach using beetles. With the help of single-cell expression data, I am also curious to know the presence or absence of sex chromosome inactivation during meiosis.
-
-I earned my Bachelors in engineering with a specialization in Biotechnology in May 2016.
